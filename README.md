@@ -18,7 +18,7 @@ bundler install
 yarn start 
 ```
 
-Credits
+Credits.
 -----
 - @jgthms for [Bulma](https://bulma.io)
 - @thomaspark for [Bootswatch](https://bootswatch.com/)
